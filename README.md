@@ -2,7 +2,7 @@
 
 Game made with Unreal Engine 5.2.1
 
-Demo: https://youtu.be/p2vDrM_D4jQ
+Demo: https://youtu.be/vDphwC9rgU0
 
 The goal of the game is to paint all cubes in green.
 
